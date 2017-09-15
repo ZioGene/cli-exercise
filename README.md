@@ -59,19 +59,12 @@ Finally build your application and check out the result
 
 add the custom CSS and JS inside the .angular-cli.json relative section:
 
-`
-
-"styles": [
-
+`"styles": [
       [...add-my-css-library.css...],
-      
-      "styles.css"
-      
+      "styles.css"      
     ],
     
     "scripts": [
-    
       [...add-my-js-library.js...],
-      
     ],
     `
