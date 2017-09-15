@@ -19,7 +19,7 @@ Tip: if you don't know what some keyword (for example component) means, you can 
 Display Angular CLI version and browser through the help section with a help command.
 
 ### Exercise 2
-Create your first project with Angular CLI, explore the folder structure of the new project
+Create your first project with Angular CLI, explore the folder structure of the new project (tip: consider to skip installation)
 
 ### Exercise 3
 Run newly created project to see what was created for you
@@ -45,4 +45,3 @@ Finally build your application and check out the result
 ### Exercise 10 BONUS
 * Change style type from CSS to SCSS
 * Add custom javascript library and custom css
-* Change prefix of component selector and generate new component with this selector
