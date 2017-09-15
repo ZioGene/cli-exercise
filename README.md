@@ -63,7 +63,6 @@ add the custom CSS and JS inside the .angular-cli.json relative section:
       [...add-my-css-library.css...],
       "styles.css"      
     ],
-    
     "scripts": [
       [...add-my-js-library.js...],
     ],
