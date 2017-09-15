@@ -58,8 +58,7 @@ Finally build your application and check out the result
 * Add custom javascript library and custom css inside your bundled build
 
 add the custom CSS and JS inside the .angular-cli.json relative section:
-
-`   "styles": [
+`"styles": [
 
       [...add-my-css-library.css...],
       
