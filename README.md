@@ -3,10 +3,10 @@
 ## Prerequirements
 
 ### Basic knowledge of JavaScript
-Basic knowledge of JavaScript is required, because we will not be teach the basic JS, but will be building on top of it.
+Basic knowledge of JavaScript is required, because all concepts are built on top of it.
 
 ### NodeJS
-Please install NodeJS on your computer. You can find download links [here](https://nodejs.org/en/download/current/). (version 7.x)
+Please install NodeJS on your computer. You can find download links [here](https://nodejs.org/en/download/). (LTS version 6.11.x)
 
 ### Angular CLI
 Please install angular CLI to you computer, `npm install -g @angular/cli`. More info [here](https://github.com/angular/angular-cli)
